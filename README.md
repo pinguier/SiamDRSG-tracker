@@ -11,5 +11,3 @@ Siamese-based trackers are renowned for their balance between speed and accuracy
 
 ## Code
 The code and pre-trained models will be made publicly available here upon the acceptance of our paper. Thank you for your interest!
-
-(代码和预训练模型将在我们的论文被接收后于此处公开。感谢您的关注！)
